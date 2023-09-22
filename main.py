@@ -20,7 +20,7 @@ def paper_item():
     论文专题
     :return:
     '''
-    manag_10() # 10大管理 输入输出工具
+
 
 def exec():
 
