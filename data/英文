@@ -1,0 +1,135 @@
+英文名,中文名,描述
+SA,结构化分析方法
+OOA,面向对象分析方法
+OOD,面向对象设计
+OOP,面向对象编程
+DFD,数据流图
+DD,数据字典
+OLAP,在线联机分析处理
+Data Mining,数据挖掘
+Data Warehouse,数据仓库
+Database,数据库
+Message,消息
+Communication,消息通信
+C/S,Client/Service 客户机/服务器
+B/S,Browser/Service 浏览器/服务器
+SOA,面向服务的体系结构
+Middleware,中间件
+RPC,远程过程调用
+Web Service,web服务
+SOAP,简单对象访问协议
+HTML,超文本标记语言
+CORBA,公共对象请求代理体系结构
+OMG,对象管理组织
+DCOM,分布式构建对象模型
+Object,对象
+Class,类
+Inheritance,继承
+Dependency,依赖
+Generalization,泛化
+Aggregation,聚合
+Composite,组合
+Association,关联
+LAN,local_area_network 局域网
+Ethernet,以太网
+WAN,wide_area_network 广域网
+Router,路由器
+Switch,交换机
+Physical Layer,物理层
+Datalink Layer,数据链路层
+Network Layer,网络层
+Transport Layer,传输层
+Session Layer,会话层
+Presentation Layer,表示层
+Application Layer,应用层
+Firewall,防火墙
+TCP,传输控制协议
+UDP,用户数据包协议
+ARP,地址解析协议
+FTP,文件传输协议
+DHCP,动态主机设置协议
+ATM,异步传输模式
+DAS,直接连接存储
+NAS,网络连接存储
+SAN,存储区域网络
+Modifiability,可修改性
+Maintainability,可维护性
+Extendibility,可拓展性
+Reassemble,结构重构
+Portability,可移植性
+PKI,公钥基础设施
+PMI,授权管理基础设施
+CA,认证机关
+Confidentiality,机密性
+Intergrity,完整性
+Non-Repudiation,不可否认性
+G2E,政府对公务员
+G2B,政府对企业
+G2G,政府部门之间
+G2C,政府对公众
+BI,商业智能
+EC,电子商务
+B2B,企业对企业
+B2C,企业对消费者
+C2C,消费者对消费者
+Cloud Computing,云计算
+Grid Computing,网格计算
+Distribute Computing,分布式计算、
+IOT,物联网
+RAID,独立冗余磁盘阵列
+RFID,射频识别
+Information Security,信息安全
+DES,数据加密标准
+IDEA,国际数据加密算法
+RSA,非对称加密算法
+Big Data,大数据
+artificial intelligence,人工智能
+Blockchain,区款链
+Virtual Reality,虚拟现实
+Internet+,互联网+
+Industry4.0,工业4.0
+5th-Generation,5G
+sensing layer,感知层
+machine learning,机器学习
+Embedded System,嵌入式系统
+5V,大量_高速_多样_价值_真实
+New Infrastructure Construction,新型基础设施建设
+Beidou Satelite Navigation System,北斗卫星导航系统
+Health Code,健康码
+Digital Currency,数字货币
+VRCCY,虚拟货币 virtual reality currency
+Driverless,无人驾驶
+Work Performance Date,工作绩效数据
+Work Performance Information,工作绩效信息
+Work Performance Reports,工作绩效报告
+Project Management Process Group,项目管理过程组
+Initiating Process Group,启动过程组
+Planning Process Group,规划过程组
+Executing Process Group,执行过程组
+Monitoring and Controlling Process Group,监控过程组
+Closing Process Group,收尾过程组
+Progressive Elaboration,渐进明细
+Development Approach,开发方法
+Enterprise Environment Factors,事业环境因素
+Organization Process Assets,组织过程资产
+Project Management Office,项目管理办公室（PMO）
+Project Phase,项目阶段
+Matrix Organization,矩阵型组织
+Functional Organization,智能型组织
+Project Intergation Management,项目整合管理
+Develop Project Charter,制定项目章程
+Develop Project Management Plan,制定项目管理计划
+Direct and Manage Project Work,指导和管理项目工作
+Monitoring and Controlling Project Work,监控项目工作
+Perform Intergrated Change Control,实施整体变更控制
+Close Project or Phase,结束项目或阶段
+Agreements,协议
+Project Charter,项目章程
+Project Management Plan,项目管理计划
+Change Management Plan,变更管理计划
+
+
+
+
+
+
